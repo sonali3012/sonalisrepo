@@ -1,0 +1,8 @@
+def bday_message():
+    name = input("Enter your name: ")
+    birthMonth = input("Enter your birth month: ")
+    birthDay = input("Enter your birth day: ")
+    birthYear = input("Enter your birth year:")
+
+    print(name, "your birthday is on", birthMonth, birthDay, birthYear)
+bday_message()
