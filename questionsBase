@@ -1,0 +1,93 @@
+Question 1
+Can Java run on Android?
+True,False
+True
+
+Question 2
+What is the capital of Java?
+London,Paris,New York,Tokyo
+London
+
+Question 3
+Which data type is used to store integers in Java?
+int,double,float,char
+int
+
+Question 4
+Which of the following is NOT a valid Java keyword?
+public,private,class,integer
+integer
+
+Question 5
+What is the default value of a boolean variable in Java?
+true,false,undefined,null
+false
+
+Question 6
+Which of these is used to terminate a loop in Java?
+break,continue,exit,stop
+break
+
+Question 7
+What is the size of an `int` in Java?
+8 bytes, 16 bytes, 32 bytes, 64 bytes
+32 bytes
+
+Question 8
+Which method is used to print output in Java?
+print(),printf(),println(),write()
+println()
+
+Question 9
+Which of the following is the correct syntax for a for-loop in Java?
+for(int i = 0; i < 5; i++), for(i = 0; i < 5; i++), for(int i < 5; i++), for(int i = 0; i++ < 5)
+for(int i = 0; i < 5; i++)
+
+Question 10
+Which of these is a feature of Object-Oriented Programming (OOP)?
+Encapsulation,Iteration,Functionality,Algorithms
+Encapsulation
+
+Question 11
+In Java, how do you declare a constant variable?
+const int MAX_VALUE = 100, final int MAX_VALUE = 100, static final int MAX_VALUE = 100, final static int MAX_VALUE = 100
+final int MAX_VALUE = 100
+
+Question 12
+Which of the following data types can store floating-point numbers in Java?
+int, String, double, char
+double
+
+Question 13
+Which of the following is used to handle exceptions in Java?
+try-catch, if-else, for-while, break-continue
+try-catch
+
+Question 14
+What is the result of the expression 5 + 3 * 2 in Java (following BODMAS)?
+16,11, 13, 10
+11
+
+Question 15
+Which method is used to get the length of an array in Java?
+length(),size(),getLength(),length
+length()
+
+Question 16
+What is the purpose of the `public static void main(String[] args)` method in Java?
+To declare the starting point of the program, To initialize variables, To define classes, To create objects
+To declare the starting point of the program
+
+Question 17
+Which of the following is the correct way to declare a class in Java?
+class MyClass, MyClass class, public class MyClass, class public MyClass
+public class MyClass
+
+Question 18
+Which of these classes are part of the `java.util` package?
+ArrayList, String, Integer, Math
+ArrayList
+
+Question 19
+What will the following Java code print? int x = 5; System.out.println(x++);
+5, 6, Error, Undefined
